@@ -1,1 +1,3 @@
-# Lukasz-Szymanski-Portfolio
+# Łukasz Szymański - Portfolio
+
+
