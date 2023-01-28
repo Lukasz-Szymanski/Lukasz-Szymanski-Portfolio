@@ -11,7 +11,7 @@
 
 
 #background-video {
-   width: 100%;
+   width: 100vw;
    height: 100vh;
    object-fit: cover;
    position: fixed;
@@ -40,7 +40,7 @@ img {
 
 
 .bio-container {
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     background-color: rgba(0, 0, 0, 0.7);
     margin: 40px 0 0 0;
@@ -71,7 +71,7 @@ img {
 /* Third slide */
 
 .video-projects {
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     background-color: rgba(0, 0, 0, 0.7);
     color: #fff;
@@ -118,7 +118,7 @@ img {
 
 
 .contact-container {
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     background-color: rgba(0, 0, 0, 0.7);
     display: flex;
@@ -167,9 +167,27 @@ img {
 
 footer {
     font-family: 'Courier New', Courier, monospace;
-    width: 100%;
+    width: 100vw;
     height: 5vh;
     color: #fff;
     background-color: rgba(0, 0, 0, 0.7);
     text-align: center;
+}
+
+
+
+@media only screen and (max-width:767px){
+    /* For Mobile */
+    /* First slide */
+    .info {
+        font-size: 10px;
+        line-height: normal;
+        padding-top: 15px;
+    }
+
+  
+
+   
+    
+   
 }
