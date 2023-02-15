@@ -131,10 +131,11 @@ img {
     padding-top: 40px;
     width: fit-content;
     block-size: fit-content;
+    transition: 1s;
 }
 
 .video-lists a:hover {
-    opacity: 0.7;
+    opacity: 0.5;
 }
 
 
