@@ -36,7 +36,7 @@ section {
     bottom: 0;
     margin: 20px auto;
     left: -100%;
-    animation: slide-in 2s ease-out 1s forwards;
+    animation: slide-in 2s ease-out 3s forwards;
 }
     
     @keyframes slide-in {
