@@ -147,7 +147,6 @@ img {
 
 
 .contact {
-
     background-color: rgba(0, 0, 0, 0.7);
     display: flex;
     justify-content: flex-end;
@@ -156,9 +155,9 @@ img {
 }
 
 .fab {
-   font-size: 50px;
-   text-decoration: none;
-   padding: 0 50px 75px 50px;
+    font-size: 50px;
+    text-decoration: none;
+    margin: 0px 50px 75px 50px;
 }
 
 
