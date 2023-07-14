@@ -5,4 +5,4 @@
 * CSS
 
 ### Live demo: 
-https://siemabrokul.github.io/Lukasz-Szymanski-Portfolio/
+https://lukasz-szymanski.github.io/Lukasz-Szymanski-Portfolio/
